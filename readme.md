@@ -1,6 +1,6 @@
 # Intune Linkübersicht – Thematisch sortiert
 
-## 🔧 Gerätekonfiguration & Richtlinien
+## Gerätekonfiguration & Richtlinien
 - [App Configuration Policies](https://docs.microsoft.com/en-us/mem/intune/apps/app-configuration-policies-overview)
 - [Windows Device Restrictions](https://docs.microsoft.com/en-us/mem/intune/configuration/device-restrictions-windows-10)
 - [Device Profiles](https://docs.microsoft.com/en-us/mem/intune/configuration/device-profiles)
@@ -12,7 +12,7 @@
 - [Wi-Fi Settings](https://docs.microsoft.com/en-us/mem/intune/configuration/wi-fi-settings-configure)
 - [MDM CSP Reference](https://docs.microsoft.com/en-us/windows/client-management/mdm/configuration-service-provider-reference)
 
-## 📥 Bereitstellung & Enrollment
+## Bereitstellung & Enrollment
 - [ConfigMgr Download](https://www.microsoft.com/en-us/evalcenter/download-microsoft-endpoint-configuration-manager)
 - [Windows Autopatch Overview](https://learn.microsoft.com/en-us/windows/deployment/windows-autopatch/overview/windows-autopatch-overview)
 - [Autopilot Networking Requirements](https://docs.microsoft.com/en-us/mem/autopilot/networking-requirements)
@@ -24,13 +24,13 @@
 - [Just-in-Time Registration (Apple)](https://learn.microsoft.com/en-us/mem/intune/enrollment/automated-device-enrollment-authentication#option-3-just-in-time-registration-for-setup-assistant-with-modern-authentication)
 - [Corporate Identifiers Add](https://learn.microsoft.com/en-us/intune/intune-service/enrollment/corporate-identifiers-add)
 
-## 👮‍♂️ Compliance & Sicherheit
+## Compliance & Sicherheit
 - [Compliance Policy Monitor](https://docs.microsoft.com/en-us/mem/intune/protect/compliance-policy-monitor)
 - [Device Compliance Start](https://docs.microsoft.com/en-us/mem/intune/protect/device-compliance-get-started)
 - [Trusted Root Certificates](https://docs.microsoft.com/en-us/mem/intune/protect/certificates-trusted-root)
 - [Unified Endpoint Security Migration](https://techcommunity.microsoft.com/t5/intune-customer-success/endpoint-security-policies-migrating-to-the-unified-settings/ba-p/3890989)
 
-## 🧰 Verwaltung & Tools
+## Verwaltung & Tools
 - [Find Primary User](https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/find-primary-user#who-is-assigned-as-the-primary-user)
 - [Remote Actions](https://learn.microsoft.com/en-us/mem/intune/remote-actions/device-management#available-remote-actions)
 - [User vs Device Groups](https://docs.microsoft.com/en-us/mem/intune/configuration/device-profile-assign#user-groups-vs-device-groups)
@@ -38,9 +38,9 @@
 - [Recommended Software (Analytics)](https://docs.microsoft.com/de-de/mem/analytics/recommended-software)
 - [Supported Intune Apps](https://learn.microsoft.com/en-us/mem/intune/apps/apps-supported-intune-apps)
 
-## 🛠️ Troubleshooting & Spezialthemen
+## Troubleshooting & Spezialthemen
 - [Troubleshooting MSI App Deployments](https://techcommunity.microsoft.com/t5/intune-customer-success/support-tip-troubleshooting-msi-app-deployments-in-microsoft/ba-p/359125)
 - [Win32 Content Prep Tool v1.8.6 (Download)](https://github.com/microsoft/Microsoft-Win32-Content-Prep-Tool/archive/refs/tags/v1.8.6.zip)
 
-## 🏢 Externe Ressourcen
+## Externe Ressourcen
 - [UPIK (D&B)](https://www.dnb.com/de-de/upik/)
